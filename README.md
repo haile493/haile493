@@ -5,7 +5,7 @@
 ![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-red?style=flat-square&logo=google-maps&logoColor=white)
 
 > **Developing practical AI solutions:** Computer Vision • Automated Detection • NLP  
-> Lecturer / Researcher at **The Saigon International University**
+> Lecturer / Researcher at **Ho Chi Minh City Open University**
 
 ---
 
@@ -64,5 +64,5 @@
 ### 📬 Connect With Me
 
 - 💼 **LinkedIn:** [Thanh-Hai Le](https://www.linkedin.com/in/thanh-hai-le-57882034/)
-- 🏛️ **Affiliation:** The Saigon International University (SIU), Ho Chi Minh City, Vietnam
+- 🏛️ **Affiliation:** Ho Chi Minh City Open University, Ho Chi Minh City, Vietnam
 - 🐙 **GitHub:** [@haile493](https://github.com/haile493)
